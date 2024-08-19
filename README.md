@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sewiiiii
-- ⌨️ I am a JavaScript developer 
+- 👋 Hi, I’m @xvqh
+- ⌨️ I am a JavaScript developer
+- <img src="https://komarev.com/ghpvc/?username=xvqh">
 
 <!---
 sewiiiii/sewiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
